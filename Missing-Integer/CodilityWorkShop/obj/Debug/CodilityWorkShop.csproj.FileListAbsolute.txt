@@ -1,0 +1,6 @@
+D:\Test1\Samples\CodilityWorkShopSoln\CodilityWorkShop\bin\Debug\CodilityWorkShop.exe.config
+D:\Test1\Samples\CodilityWorkShopSoln\CodilityWorkShop\bin\Debug\CodilityWorkShop.exe
+D:\Test1\Samples\CodilityWorkShopSoln\CodilityWorkShop\bin\Debug\CodilityWorkShop.pdb
+D:\Test1\Samples\CodilityWorkShopSoln\CodilityWorkShop\obj\Debug\CodilityWorkShop.csprojResolveAssemblyReference.cache
+D:\Test1\Samples\CodilityWorkShopSoln\CodilityWorkShop\obj\Debug\CodilityWorkShop.exe
+D:\Test1\Samples\CodilityWorkShopSoln\CodilityWorkShop\obj\Debug\CodilityWorkShop.pdb
