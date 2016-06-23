@@ -12,7 +12,6 @@ namespace CodilityWorkShop
             Finder find = new Finder();
             int[] arr = {-1, 6, 3, 1, 2, 5};
             find.Solution(arr, arr.Length);
-
         }
     }
 }
